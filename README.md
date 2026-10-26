@@ -117,16 +117,6 @@ bt.train_eval()
 | Max sequence length | 512 |
 | Best-model metric | validation F1 |
 
-## Results
-
-Fill in after running the experiments (test set, entity-level):
-
-| Model | Precision | Recall | F1 |
-|-------|-----------|--------|----|
-| BiomedBERT-large | – | – | – |
-| SapBERT | – | – | – |
-| BioBERT | – | – | – |
-| Bio_ClinicalBERT | – | – | – |
 
 ## Notes
 
